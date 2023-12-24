@@ -20,15 +20,15 @@ The values circulated and recorded.
 ### Step 6: 
 Then the values printed as the result.
 ## Program:
-#Program to circulate N values.
-#Developed by: Sanjay Balaji S
-#RegisterNumber:23005804
+#Program to circulate N values.<br>
+#Developed by: Sanjay Balaji S<br>
+#RegisterNumber:23005804<br>
 
-def circulate():
-     list1=eval(input())
-     n=int(input())
-     result=list1[n:]+list1[:n]
-     print("After circulating the values are:",result)
+def circulate():<br>
+     list1=eval(input())<br>
+     n=int(input())<br>
+     result=list1[n:]+list1[:n]<br>
+     print("After circulating the values are:",result)<br>
 
 ## Output:
 ![image](https://github.com/SanjayBalaji0/Circulate-the-values-of-N-variables/assets/145533553/c1a1e1c6-43b6-440e-a558-3cf6c787b930)
